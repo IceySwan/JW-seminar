@@ -42,4 +42,4 @@ The copyright of part Lectures and Codes belongs to me, and is published under t
 
 ## Star history
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#IceySwan/JW-seminar&Date" frameBorder="0"></iframe>
+[![Star History Chart](https://api.star-history.com/svg?repos=IceySwan/JW-seminar&type=Date)](https://star-history.com/#IceySwan/JW-seminar&Date)

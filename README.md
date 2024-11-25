@@ -8,7 +8,9 @@ This Repo is used to record my notes and codes in JW Seminar.
 >
 > Here, theory and practice are combined: it doesn't work and we don't know why.
 
-## Seminar Notes
+## Seminar Notes 
+
+This part of the notes has not been sorted out yet, and will be updated during the Chinese New Year. 
 
 | Time             | Title                                       | Presenter |
 | ---------------- | ------------------------------------------- | --------- |
@@ -22,6 +24,11 @@ This Repo is used to record my notes and codes in JW Seminar.
 
 ## Codes
 
+```
+Python 3.11.8
+torch 2.5.1+cpu
+```
+
 - 2024.11.12 PINNs-torch: PINNs torch version
 
 ## Library
@@ -33,3 +40,6 @@ The papers and textbooks we use are in PDF format for study purposes only.
 The copyright of part Seminar Note belongs to every Presenters, All Right Reserved. 
 The copyright of part Lectures and Codes belongs to me, and is published under the MIT license. 
 
+## Star history
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#IceySwan/JW-seminar&Date" frameBorder="0"></iframe>
